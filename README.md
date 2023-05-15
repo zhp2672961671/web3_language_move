@@ -2,7 +2,7 @@
  * @Author: 章红平
  * @Date: 2023-05-15 09:52:33
  * @LastEditors: 章红平
- * @LastEditTime: 2023-05-15 13:54:41
+ * @LastEditTime: 2023-05-15 14:21:57
  * @FilePath: \web3_language_move\README.md
  * @Description: 描述
 -->
@@ -28,3 +28,5 @@ cargo install --path move/language/tools/move-analyzer
 vscode开发环境
 1.move-analyzer
 2.move syntax
+线上测试环境
+https://playground.pontem.network/
